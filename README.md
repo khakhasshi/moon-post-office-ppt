@@ -1,9 +1,11 @@
-# 消失的第七页航海日志 HTML 课件
+# 网页 PPT 公网目录
 
-这是一个通过 GitHub Pages 发布的静态网页 PPT。
+这个仓库通过 GitHub Pages 发布多个静态网页课件。
 
-- 入口文件：`index.html`
-- 静态资源：`assets/`
-- 说明文件：`使用说明.md`
-- 字体与音乐授权说明已随课件包保留。
+- `moon-post-office/`：月亮邮局的最后一封信
+- `seventh-page/`：消失的第七页航海日志
+- `seventh-page-legacy/`：消失的第七页航海日志（压缩包内 legacyPages 版本）
 
+GitHub Pages 地址：
+
+- https://khakhasshi.github.io/moon-post-office-ppt/
